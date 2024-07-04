@@ -12,11 +12,26 @@ h1{
 }
 
 #heading{
-    background-color: rgb(0, 238, 255);
-    height: 400px;
-    padding: 100px;
-    width: 1100px;
+    background-image: url("../assest/hero.ss.jpg");
+    height: 900px;
+    padding: 500px;
+    max-width: 1100px;
     margin: 30px;
     margin-left: auto;
     margin-right: auto;
+    background-size: cover;
+    background-position: center;
+}
+.vip-ss{
+    text-align: center;
+}
+
+.vip{
+    background-color: rgb(194, 231, 113);
+    padding: 9px 14px;
+    color: floralwhite;
+    border-style: solid;
+    border-width: 5px;
+    border-color: yellow;
+    border-radius: 2px;
 }
